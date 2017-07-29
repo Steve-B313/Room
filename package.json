@@ -13,6 +13,9 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "6.10.3"
+  },
   "bugs": {
     "url": "https://github.com/Steve-B313/Room/issues"
   },
